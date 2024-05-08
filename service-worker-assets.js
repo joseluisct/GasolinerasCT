@@ -13,11 +13,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-F7Bsbq+oTIZcB9TB6nvZqH5+t1wjbDZW6VrFud+Q\/9c=",
+      "hash": "sha256-eMkWDPKokj6eXhL8UTDGAFCNsNbQW1uXV30+S9a+Br4=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-Rmrqlw0LVfMWWPVUhnvBG+kJ1\/eZCDsO4eIsUqvnFgQ=",
+      "hash": "sha256-dlPJ4KtHRPgF61oVR0bBpB+mawZH1lrfeHRTG3aiIdo=",
       "url": "manifest.json"
     },
     {
@@ -333,5 +333,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "zWWty3QF"
+  "version": "5WLEn4mi"
 };

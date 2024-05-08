@@ -1,7 +1,7 @@
 {
   "name": "GasolinerasCT",
   "short_name": "Gasolineras",
-  "start_url": "./",
+  "start_url": "./GasolinerasCT/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
