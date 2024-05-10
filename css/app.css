@@ -77,14 +77,14 @@ a, .btn-link {
 
 .loading-progress circle {
     fill: none;
-    stroke: #e0e0e0;
+    stroke: #ADD8E6;
     stroke-width: 0.6rem;
     transform-origin: 50% 50%;
     transform: rotate(-90deg);
 }
 
 .loading-progress circle:last-child {
-    stroke: rgba(89,74,226,1);
+    stroke: #1E88E5;
     stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
     transition: stroke-dasharray 0.05s ease-in-out;
 }

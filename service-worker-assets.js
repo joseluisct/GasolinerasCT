@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-Q0BFFHQleDA7jLikFegNAoynZrgTKCdXVIgCTYB73TI=",
+      "hash": "sha256-UGoZA27KH1Qthuz6xqv6ZjE3un1V1VeCbI+0dlxY40I=",
       "url": "css\/app.css"
     },
     {
@@ -13,11 +13,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-eMkWDPKokj6eXhL8UTDGAFCNsNbQW1uXV30+S9a+Br4=",
+      "hash": "sha256-fUDylKyAsK9rDJSCh1zmesbAHm3Ci87CoJoYmpgBeR8=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-dlPJ4KtHRPgF61oVR0bBpB+mawZH1lrfeHRTG3aiIdo=",
+      "hash": "sha256-PXxEe5295bkleN62p2f\/PvG0UFpIunvCfm3JqEP+Tu8=",
       "url": "manifest.json"
     },
     {
@@ -53,7 +53,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-bIuNKPsiAueVfCzlXHlIimekyAtpq0y1Cj3WiN02X7k=",
+      "hash": "sha256-8M8ziKAUzMbhpQ5JDQiSQF1cpySThORAPqOLqKAh64k=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -65,7 +65,7 @@
       "url": "_framework\/BlazorSpinner.wasm"
     },
     {
-      "hash": "sha256-u3ZIpKcqon3ab84g\/3djXRagfPoUde7I4aAI7+wRXQc=",
+      "hash": "sha256-e3cuDZHk0kJKsoC5UxdUFNUInGCZXNDDsyJd+aCpb+U=",
       "url": "_framework\/Gasolineras.Blazor.wasm"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-pi+vuCI2CAj28J8UixkWHsEPupmiRCADpma+ITTVniI=",
+      "hash": "sha256-NXuc3USAiEOoCrf9+cFF7wBctjz9i6vtQ9jPUKHIOyU=",
       "url": "_framework\/MudBlazor.wasm"
     },
     {
@@ -333,5 +333,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "5WLEn4mi"
+  "version": "lXWwc1bi"
 };

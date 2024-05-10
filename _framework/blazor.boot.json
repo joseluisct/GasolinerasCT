@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Gasolineras.Blazor",
   "resources": {
-    "hash": "sha256-JuZj9337LgTvb2F8MWqKFMr2oPM0x/yON472+K8Z7SY=",
+    "hash": "sha256-cHLzRlMsF9D3GX7jeohVcWmzWrm8YpUiUTqfkxvf7Og=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.sp5bpa7jel.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "BlazorSpinner.wasm": "sha256-ozjliTndw0j3Zzbbr3NnnUTP3TsAPZWwvOi2TgNGH9U=",
-      "Gasolineras.Blazor.wasm": "sha256-u3ZIpKcqon3ab84g/3djXRagfPoUde7I4aAI7+wRXQc=",
+      "Gasolineras.Blazor.wasm": "sha256-e3cuDZHk0kJKsoC5UxdUFNUInGCZXNDDsyJd+aCpb+U=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-TfxOrSDqHP3Jk8d4hfUqat9s7HfinXt3D39AZ/K13JY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-2tvQyhdAppjq+TbUgWnHzgVSoZ6pkDkXeqMoPu6OW4Y=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-bkYtz+1WPc/N4M/wPJnz5r0GHeEo29azpm4kM89KqTo=",
@@ -38,7 +38,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
       "Microsoft.JSInterop.wasm": "sha256-qyStRK3KrRqRHVoM1FLZcrkv0lXiaHkOY+u12IbOQ90=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-i8yLC1pzEZMAPAHK2MyunJW81S6Tpyvwka9LDZSylx8=",
-      "MudBlazor.wasm": "sha256-pi+vuCI2CAj28J8UixkWHsEPupmiRCADpma+ITTVniI=",
+      "MudBlazor.wasm": "sha256-NXuc3USAiEOoCrf9+cFF7wBctjz9i6vtQ9jPUKHIOyU=",
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "System.Collections.Concurrent.wasm": "sha256-XNtuVqlY2kcTqmT80lCbmxq2XjZUbB/kgd/IqQs2zHk=",
       "System.Collections.Immutable.wasm": "sha256-/N105A5f3HHm07UAHSwZEvhoWDq9NpNp/ObjoKpsjuU=",
